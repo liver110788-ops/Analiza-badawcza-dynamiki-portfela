@@ -8,3 +8,5 @@ Za pomocą symulacji Monte Carlo zbadano kluczowe efekty zarządzania portfelem:
 - zwiększenie stopy zwrotu przy zachowaniu tego samego poziomu ryzyka;
 
 Główny efekt projektu polega na pokazaniu, że efektywne zarządzanie portfelem nie polega na wyborze jednego „najlepszego” aktywa, lecz na odpowiedniej kombinacji aktywów oraz właściwym rozkładzie wag pomiędzy nimi.
+
+Link do obliczeń w Pythonie: https://colab.research.google.com/drive/1gac-QN1n01_dntCP9p06sN5gwdkoRMDm
